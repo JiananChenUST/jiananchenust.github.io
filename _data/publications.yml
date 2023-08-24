@@ -22,7 +22,7 @@ main:
   
   - title: LES Study of the Interaction between Mountain Waves and Typhoon Outer Region Rainfall under Global Warming.
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: AGU
+    conference_short: AGU 2022
     conference: <strong>AGU Fall Meeting </strong>, 2022.
     pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
@@ -32,7 +32,7 @@ main:
 
   - title: Quantifying the Global-Warming Response of the Orographic Precipitation in a Typhoon Environment with Large-Eddy Simulations.
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: AMS Mountain 
+    conference_short: AMS Mountain 2022
     conference: <strong>AMS 20th Conference on Mountain Meteorology</strong>, 2022.
     pdf:  https://docs.google.com/presentation/d/1fRclLYlqtSRJuWN3gocASrwnnmdEegP4/edit?usp=sharing&ouid=112088689555975755767&rtpof=true&sd=true
     #code: https://github.com/MrGiovanni/ContinualLearning
