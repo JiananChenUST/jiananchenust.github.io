@@ -17,8 +17,9 @@ I am a third-year Ph.D. student in Atmospheric Environmental Science at **Hong K
 - **[July. 2023]** Our paper about extreme orographic precipitation is accepted to **Journal of Climate**.
 
 
-
-
 {% include_relative _includes/publications.md %}
+
+
+{% include_relative _includes/presentations.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
