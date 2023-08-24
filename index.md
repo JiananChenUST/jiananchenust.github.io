@@ -22,3 +22,16 @@ I am a third-year Ph.D. student in Atmospheric Environmental Science at **Hong K
 
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Teaching 
+
+- **Climate Change: Science, Policy and Management** (Instructor: Prof. Xiaoming Shi)
+Teaching Assistant. Division of Environment and Sustainability, HKUST, 2023 Spring
+
+- **Climate Change Impacts and Extreme Weather Events** (Instructor: Prof. Eun Soon IM)
+Teaching Assistant. Division of Environment and Sustainability, HKUST, 2022 Fall
+
+- **Introduction to Sustainability** (Instructor: Prof. Xiaoming Shi)
+Teaching Assistant. Division of Environment and Sustainability, HKUST, 2022 Spring
+
+
