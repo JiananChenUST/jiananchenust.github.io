@@ -12,9 +12,9 @@ main:
 
   - title: Pseudo Seeder-feeder Mechanism in Orographic Precipitation in a Typhoon Environment and its Response to Global Warming.
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: AOGS2023
+    conference_short: AOGS 2023
     conference: <strong>Asia Oceania Geosciences Society Annual Meeting </strong>, 2023.
-    pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
+    pdf: ./assets/files/Jianan_Chen_CV.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/meetings/AOGS.png
@@ -33,7 +33,7 @@ main:
   - title: Quantifying the Global-Warming Response of the Orographic Precipitation in a Typhoon Environment with Large-Eddy Simulations.
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
     conference_short: AMS Mountain 
-    conference: <strong>AMS 20th Conference on Mountain Meteorology</strong>, 2023.
+    conference: <strong>AMS 20th Conference on Mountain Meteorology</strong>, 2022.
     #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
