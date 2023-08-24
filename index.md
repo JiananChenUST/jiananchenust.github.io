@@ -6,7 +6,7 @@ layout: homepage
 
 I am a third-year Ph.D. student in Atmospheric Environmental Science at **Hong Kong University of Science and Technology** under supervision of [Prof Xiaoming Shi](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiaoming-shi-shixm). My research involves numerical weather forecasting, turbulence parameterization and extreme orographic precipitation under global warming. Prior to joining the PhD programe, I obtained my bachelor degrees from the University of Manchester and Nanjing University of Information, Science and Technology. 
 
-I usually spend my lesisure time in playing badminton and body buiding. After moving to Hong Kong, I also developed a new hobby- hiking. I visit hiking trails with my friends every two weeks (or so). 
+I usually spend my lesisure time in playing badminton and body buiding. After moving to Hong Kong, I also developed a new hobby- hiking. I usually visit various hiking trails with my friends. 
 
 
 ## Research Interests
@@ -38,3 +38,11 @@ I usually spend my lesisure time in playing badminton and body buiding. After mo
 **Teaching Assistant**. Division of Environment and Sustainability, HKUST, 2022 Spring
 
 
+## Gallary 
+
+<center>
+    <img src= "/Users/chenjianan/Documents/GitHub/jiananchenust.github.io/assets/img/HKUST.png">
+    <br>
+    HKUST campus @Jianan Chen
+
+</center>
