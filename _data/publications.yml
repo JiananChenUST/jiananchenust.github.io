@@ -14,7 +14,7 @@ main:
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
     conference_short: AOGS 2023
     conference: <strong>Asia Oceania Geosciences Society Annual Meeting </strong>, 2023.
-    pdf: ./assets/files/Jianan_Chen_CV.pdf
+    pdf: ./assets/files/AOGS2023.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/meetings/AOGS.png
@@ -34,7 +34,7 @@ main:
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
     conference_short: AMS Mountain 
     conference: <strong>AMS 20th Conference on Mountain Meteorology</strong>, 2022.
-    #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
+    pdf:  https://docs.google.com/presentation/d/1fRclLYlqtSRJuWN3gocASrwnnmdEegP4/edit?usp=sharing&ouid=112088689555975755767&rtpof=true&sd=true
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img//meetings/AMS.png
