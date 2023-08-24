@@ -37,12 +37,3 @@ I spend my lesisure time in playing badminton and body buiding. After moving to 
 - **Introduction to Sustainability** (Instructor: Prof. Xiaoming Shi)
 **Teaching Assistant**. Division of Environment and Sustainability, HKUST, 2022 Spring
 
-
-## Gallary 
-
-<center>
-    <img src= "[/Users/chenjianan/Documents/GitHub/jiananchenust.github.io/assets/img/HKUST.png](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)">
-    <br>
-    HKUST campus @Jianan Chen
-
-</center>
