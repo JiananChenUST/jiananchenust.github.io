@@ -126,7 +126,7 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/Jianan_Chen_CV.pdf
 github_link: https://github.com/JiananChenUST
-linkedin: https://www.linkedin.com/
+#linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/AtmosChen
 
 # Images (e.g., your profile picture and your website's favicon) 
