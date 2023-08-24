@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a third-year Ph.D. student at Hong University of Science and Technology.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Extreme preciptation:** Tropical cyclone, orographic precipitation, gloabl warming
+- **Numerical weather forecasting:** Advection Scheme, turbulence parameterization, turbulence gray zone 
+
 
 ## News
 
