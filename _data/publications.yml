@@ -21,15 +21,15 @@ main:
     #notes: Peer review
 
 
-  - title: Assessing the Impact of Turbulence Parameterization and Advection Schemes on Gray Zone Simulations of Squall Line
-    authors: <strong>Jianan Chen</strong>, Xiaoming Shi* 
-    conference_short: In preparation 
+ # - title: Assessing the Impact of Turbulence Parameterization and Advection Schemes on Gray Zone Simulations of Squall Line
+    #authors: <strong>Jianan Chen</strong>, Xiaoming Shi* 
+    #conference_short: In preparation 
     #conference: <strong>Journal of Climate</strong>, 2023.
     #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/orographic.jpg
-    notes: In preparation
+    #notes: In preparation
 
   - title: Pseudo Seeder-feeder Mechanism in Orographic Precipitation in a Typhoon Environment and its Response to Global Warming.
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
