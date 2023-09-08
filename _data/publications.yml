@@ -29,7 +29,7 @@ main:
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/orographic.jpg
-    #notes: Peer review
+    notes: In preparation
 
   - title: Pseudo Seeder-feeder Mechanism in Orographic Precipitation in a Typhoon Environment and its Response to Global Warming.
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
