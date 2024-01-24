@@ -1,4 +1,13 @@
 main:
+  - title: Evaluation of  Numerical Advection Schemes and Explicit Filtering and Reconstruction in Gray Zone Simulation of Squall line
+    authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
+    conference_short: Submitted, under review
+    conference: <strong>Journal of Climate</strong>, 2023.
+    #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper_2024.jpg
+    notes: Peer review
 
   - title: Quantifying Global-Warming Response of the Orographic Precipitation in a Typhoon Environment with Large-Eddy Simulations
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
@@ -18,20 +27,19 @@ main:
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Shi_paper.jpg
-    #notes: Peer review
+    notes: Peer review
 
-
- # - title: Assessing the Impact of Turbulence Parameterization and Advection Schemes on Gray Zone Simulations of Squall Line
-    #authors: <strong>Jianan Chen</strong>, Xiaoming Shi* 
-    #conference_short: In preparation 
-    #conference: <strong>Journal of Climate</strong>, 2023.
-    #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
+  - title: Assessing the Impact of Turbulence Parameterization and Advection Schemes on Gray Zone Simulations of Squall Lines
+    authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
+    conference_short: AGU 2023
+    conference: <strong>AGU Fall Meeting</strong>, 2023.
+    #pdf: ./assets/files/AOGS2023.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/orographic.jpg
-    #notes: In preparation
+    image: ./assets/img/meetings/AGU2023.png
+    notes: Poster
 
-  - title: Pseudo Seeder-feeder Mechanism in Orographic Precipitation in a Typhoon Environment and its Response to Global Warming.
+  - title: Pseudo Seeder-feeder Mechanism in Orographic Precipitation in a Typhoon Environment and its Response to Global Warming
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
     conference_short: AOGS 2023
     conference: <strong>Asia Oceania Geosciences Society Annual Meeting </strong>, 2023.
@@ -41,7 +49,7 @@ main:
     image: ./assets/img/meetings/AOGS.png
     notes: Poster
   
-  - title: LES Study of the Interaction between Mountain Waves and Typhoon Outer Region Rainfall under Global Warming.
+  - title: LES Study of the Interaction between Mountain Waves and Typhoon Outer Region Rainfall under Global Warming
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
     conference_short: AGU 2022
     conference: <strong>AGU Fall Meeting </strong>, 2022.
