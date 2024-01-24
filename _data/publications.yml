@@ -2,7 +2,7 @@ main:
   - title: Evaluation of  Numerical Advection Schemes and Explicit Filtering and Reconstruction in Gray Zone Simulation of Squall line
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
     conference_short: Submitted, under review
-    conference: <strong>Journal of Climate</strong>, 2023.
+    #conference: <strong>Journal of Climate</strong>, 2023.
     #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
