@@ -3,7 +3,7 @@ main:
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
     conference_short: Submitted, under review
     #conference: <strong>Journal of Climate</strong>, 2023.
-    #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
+    pdf: https://doi.org/10.31223/X5X397
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paper_2024.jpg
