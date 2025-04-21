@@ -3,7 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am Chen Jianan, a Post-Doctoral Fellow at [University of Hong Kong](https://www.hku.hk/) My research involves numerical weather forecasting, turbulence parameterization and extreme orographic precipitation under global warming. I obtained Ph.D in Atmospheric Environmental Science at [Hong Kong University of Science and Technology](https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology) under supervision of [Prof Xiaoming Shi](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiaoming-shi-shixm). I spend my lesisure time in playing badminton and body building. After moving to Hong Kong, I also developed a new hobby- hiking. At most weekends, I visit various hiking trails with friends :- ). 
+I am Chen Jianan, a Post-Doctoral Fellow at [University of Hong Kong](https://www.hku.hk/) My research involves numerical weather forecasting, turbulence parameterization and extreme orographic precipitation under global warming. I obtained Ph.D in Atmospheric Environmental Science at [Hong Kong University of Science and Technology](https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology) under supervision of [Prof Xiaoming Shi](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiaoming-shi-shixm). 
+
+I spend my lesisure time in playing badminton and body building. After moving to Hong Kong, I also developed a new hobby- hiking. At most weekends, I visit various hiking trails with friends :- ). 
 
 
 ## Research Interests
