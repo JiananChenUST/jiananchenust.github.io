@@ -1,12 +1,45 @@
 main:
-  - title: Evaluation of  Numerical Advection Schemes and Explicit Filtering and Reconstruction in Gray Zone Simulation of Squall line
+
+  - title: Increasing Temporal Variability of Global Tropical Cyclone Near-Storm Rainfall Under Global Warming: Insights from CMIP6 HighResMIP Simulations
+    authors: <strong>Jianan Chen</strong>, Ralf Toumi, Xiaoming Shi*
+    conference_short: JGR Atmospheres
+    conference: <strong>Journal of Geophysical Research- Atmospheres</strong>, 2023.
+    pdf: https://doi.org/10.31223/X5X397
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/paper_2024.jpg
+    notes: Peer review
+
+
+  - title: Radial Rainfall Pattern Changes of Intense Over-Ocean Tropical Cyclones under Global Warming: Insights from an MRI HighRes CMIP6 Simulation
+    authors: <strong>Jianan Chen</strong>, Ralf Toumi, Xiaoming Shi*
+    conference_short: GRL
+    conference: <strong>Geophysical Research Letters</strong>, 2023.
+    pdf: https://doi.org/10.1029/2025GL116146
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/paper_2024.jpg
+    notes: Peer review
+
+
+  - title: Impacts of Numerical Advection Schemes and Turbulence Modeling on Gray-Zone Simulation of a Squall Line 
     authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: Submitted, under review
-    #conference: <strong>Journal of Climate</strong>, 2023.
+    conference_short: MWR
+    conference: <strong>Monthly Weather Review</strong>, 2023.
     pdf: https://doi.org/10.31223/X5X397
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paper_2024.jpg
+    notes: Peer review
+
+  - title: Escalating tropical cyclone precipitation extremes and landslide hazards in South China under global warming
+    authors: Xiaoming Shi*, Yang Liu, <strong>Jianan Chen</strong>
+    conference_short: npj CAS
+    conference: <strong>npj Climate and Atmospheric Science</strong>, 2023.
+    #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Shi_paper.jpg
     notes: Peer review
 
   - title: Quantifying Global-Warming Response of the Orographic Precipitation in a Typhoon Environment with Large-Eddy Simulations
@@ -19,52 +52,4 @@ main:
     image: ./assets/img/orographic.jpg
     notes: Peer review
 
-  - title: Escalating Tropical Cyclone Precipitation Extremes and Landslide Hazards under Global Warming
-    authors: Xiaoming Shi*, Yang Liu, <strong>Jianan Chen</strong>
-    conference_short: Submitted, under review
-    #conference: <strong>Journal of Climate</strong>, 2023.
-    #pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Shi_paper.jpg
-    notes: Peer review
 
-  - title: Assessing the Impact of Turbulence Parameterization and Advection Schemes on Gray Zone Simulations of Squall Lines
-    authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: AGU 2023
-    conference: <strong>AGU Fall Meeting</strong>, 2023.
-    #pdf: ./assets/files/AOGS2023.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/meetings/AGU2023.png
-    notes: Poster
-
-  - title: Pseudo Seeder-feeder Mechanism in Orographic Precipitation in a Typhoon Environment and its Response to Global Warming
-    authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: AOGS 2023
-    conference: <strong>Asia Oceania Geosciences Society Annual Meeting </strong>, 2023.
-    pdf: ./assets/files/AOGS2023.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/meetings/AOGS.png
-    notes: Poster
-  
-  - title: LES Study of the Interaction between Mountain Waves and Typhoon Outer Region Rainfall under Global Warming
-    authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: AGU 2022
-    conference: <strong>AGU Fall Meeting </strong>, 2022.
-    pdf: https://shixm.people.ust.hk/pdf/orogPrecip2023.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img//meetings/AGU.png
-    notes: Oral
-
-  - title: Quantifying the Global-Warming Response of the Orographic Precipitation in a Typhoon Environment with Large-Eddy Simulations.
-    authors: <strong>Jianan Chen</strong>, Xiaoming Shi*
-    conference_short: AMS Mountain 2022
-    conference: <strong>AMS 20th Conference on Mountain Meteorology</strong>, 2022.
-    pdf:  https://docs.google.com/presentation/d/1fRclLYlqtSRJuWN3gocASrwnnmdEegP4/edit?usp=sharing&ouid=112088689555975755767&rtpof=true&sd=true
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img//meetings/AMS.png
-    notes: Oral
