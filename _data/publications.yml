@@ -4,7 +4,7 @@ main:
     conference_short: JGR Atmospheres
     conference: "<strong>Journal of Geophysical Research - Atmospheres</strong>, 2025"
     pdf: https://doi.org/10.22541/essoar.174940459.95712870/v1
-    image: ./assets/img/JGR_2025.pdf
+    image: ./assets/img/Shi_paper.jpg
     notes: Peer review
 
   - title: "Radial Rainfall Pattern Changes of Intense Over-Ocean Tropical Cyclones under Global Warming: Insights from an MRI HighRes CMIP6 Simulation"
@@ -12,7 +12,7 @@ main:
     conference_short: GRL
     conference: "<strong>Geophysical Research Letters</strong>, 2025"
     pdf: https://doi.org/10.1029/2025GL116146
-    image: ./assets/img/JGR_2025.pdf
+    image: ./assets/img/Shi_paper.jpg
     notes: Peer review
 
   - title: "Impacts of Numerical Advection Schemes and Turbulence Modeling on Gray-Zone Simulation of a Squall Line"
