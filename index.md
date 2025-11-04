@@ -15,7 +15,7 @@ I spend my lesisure time in playing badminton and body building. After moving to
 
 
 ## News
-- **[Nov. 2025]** One paper about tropical cyclone rainfall temporal variability is accepted to **Journal of Geophysical Research - Atmospheres**.
+- **[Nov. 2025]** One paper about tropical cyclone rainfall temporal variability is accepted to **Journal of Geophysical Research:Atmospheres**.
 - **[April 2025]** One paper about tropical cyclone precipitation is accepted to **Geophysical Reseach Letters**.
 - **[March 2025]** One paper about impacts of numerical advection scheme on squall line simulation is accepted to **Monthly Weather Review**.
 - **[July 2023]**  One paper about extreme orographic precipitation is accepted to **Journal of Climate**.
