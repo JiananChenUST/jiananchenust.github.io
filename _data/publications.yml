@@ -2,7 +2,7 @@ main:
   - title: "Increasing Temporal Variability of Global Tropical Cyclone Near-Storm Rainfall Under Global Warming: Insights from CMIP6 HighResMIP Simulations"
     authors: "<strong>Jianan Chen</strong>, Ralf Toumi, Xiaoming Shi*"
     conference_short: JGR Atmospheres
-    conference: "<strong>Journal of Geophysical Research - Atmospheres</strong>, 2023"
+    conference: "<strong>Journal of Geophysical Research - Atmospheres</strong>, 2025"
     pdf: https://doi.org/10.31223/X5X397
     image: ./assets/img/paper_2024.jpg
     notes: Peer review
@@ -10,7 +10,7 @@ main:
   - title: "Radial Rainfall Pattern Changes of Intense Over-Ocean Tropical Cyclones under Global Warming: Insights from an MRI HighRes CMIP6 Simulation"
     authors: "<strong>Jianan Chen</strong>, Ralf Toumi, Xiaoming Shi*"
     conference_short: GRL
-    conference: "<strong>Geophysical Research Letters</strong>, 2023"
+    conference: "<strong>Geophysical Research Letters</strong>, 2025"
     pdf: https://doi.org/10.1029/2025GL116146
     image: ./assets/img/paper_2024.jpg
     notes: Peer review
@@ -18,7 +18,7 @@ main:
   - title: "Impacts of Numerical Advection Schemes and Turbulence Modeling on Gray-Zone Simulation of a Squall Line"
     authors: "<strong>Jianan Chen</strong>, Xiaoming Shi*"
     conference_short: MWR
-    conference: "<strong>Monthly Weather Review</strong>, 2023"
+    conference: "<strong>Monthly Weather Review</strong>, 2025"
     pdf: https://doi.org/10.31223/X5X397
     image: ./assets/img/paper_2024.jpg
     notes: Peer review
@@ -26,7 +26,7 @@ main:
   - title: "Escalating tropical cyclone precipitation extremes and landslide hazards in South China under global warming"
     authors: "Xiaoming Shi*, Yang Liu, <strong>Jianan Chen</strong>"
     conference_short: npj CAS
-    conference: "<strong>npj Climate and Atmospheric Science</strong>, 2023"
+    conference: "<strong>npj Climate and Atmospheric Science</strong>, 2024"
     image: ./assets/img/Shi_paper.jpg
     notes: Peer review
 
