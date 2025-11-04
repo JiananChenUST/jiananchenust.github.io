@@ -7,7 +7,7 @@ main:
     pdf: https://doi.org/10.31223/X5X397
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/paper_2024.jpg
+    image: ./assets/img/paper_2024.jpg
     notes: Peer review
 
 
@@ -18,7 +18,7 @@ main:
     pdf: https://doi.org/10.1029/2025GL116146
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/paper_2024.jpg
+    image: ./assets/img/paper_2024.jpg
     notes: Peer review
 
 
